@@ -15,6 +15,7 @@ If you're interested in contributing, please read the [contributing docs](/.gith
 
 ## Documentation
 
+- [Haust Devnet deployment addresses](./docs/haust/devnet-deployment.md)
 - [Aave v3 technical Paper](./docs/Aave_V3_Technical_Paper.pdf)
 - [v3 to v3.0.2 production upgrade](https://github.com/bgd-labs/proposal-3.0.2-upgrade/blob/main/README.md)
 - [Aave v3.1 features](./docs/3.1/Aave-v3.1-features.md)
